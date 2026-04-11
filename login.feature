@@ -1,4 +1,5 @@
 # language: pt
+@login @autenticacao
 Funcionalidade: Login na plataforma
 Como cliente da EBAC-SHOP
 Quero fazer o login (autenticação) na plataforma  
