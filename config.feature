@@ -21,4 +21,4 @@ Funcionalidade: Configurar produto
   Cenário: Limpar configurações
     Dado que eu selecionei a cor "Green", o temanho "G", e a quantidade "5"
     Quando eu clicar no botão "Limpar"
-    Então as selções de cor, tamanho e quantidade devem voltar ao estado original
+    Então as seleções de cor, tamanho e quantidade devem voltar ao estado original
