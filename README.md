@@ -1,3 +1,6 @@
+![QA Badge](https://img.shields.io/badge/Status-Estudo-green)
+![Gherkin Badge](https://img.shields.io/badge/Language-Gherkin-orange)
+![EBAC Badge](https://img.shields.io/badge/Origin-EBAC-blue)
 # EBAC-SHOP - Especificação de Comportamento (BDD)
 
 Este repositório contém a documentação de critérios de aceitação e cenários de teste escritos em **Gherkin** para a plataforma EBAC-SHOP. O foco deste projeto é aplicar as melhores práticas de BDD para garantir a qualidade desde a fase de requisitos.
