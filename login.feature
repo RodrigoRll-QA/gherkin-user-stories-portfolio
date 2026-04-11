@@ -9,12 +9,12 @@ Para visualizar meus pedidos
     Dado que eu esteja na pagina de autenticação da EBAC-SHOP
 
   Esquema do Cenário: Autenticação de Usuário
-    Dado que eu digitei o <Usuário>
-    E que eu digitei a <Senha>
-    Então deve exibir a <Mensagem>
+    Dado que eu digitei o <usuario>
+    E que eu digitei a <senha>
+    Então deve exibir a <mensagem>
 
     Exemplos:
-      | Usuário            | Senha     | Mensagem                               |
+      | usuario            | senha     | mensagem                               |
       | "Rodrigo@ebac.com" | "ebac123" | "Direcionando para a tela de Checkout" |
       | "Rodrigo@ebac.com" | "123ebaa" | "Usuário ou senha inválidos"           |
       | "Roorigo@ebac.com" | "ebac123" | "Usuário ou senha inválidos"           |
