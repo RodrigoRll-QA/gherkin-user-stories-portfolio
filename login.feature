@@ -15,7 +15,7 @@ Para visualizar meus pedidos
 
     Exemplos:
       | usuario          | senha   | mensagem                                       |
-      | Rodrigo@ebac.com | ebac123 | "Direcionando para a tela de Checkout"         |
+      | Rodrigo@ebac.com | ebac123 | "Bem vindo, Rodrigo!"                          |
       | @ebac.gg.com     | 123ebaa | "Usuário ou senha inválidos"                   |
       | Rodigo@123.com   | ebac123 | "Usuário ou senha inválidos"                   |
       |                  |         | "Favor preencher os campos de usuário e senha" |
