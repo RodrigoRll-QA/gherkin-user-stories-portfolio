@@ -18,7 +18,7 @@ Para finalizar minha compra
     Então deve ser exibida a mensagem de alerta <mensagem>
 
     Exemplos:
-      | nome    | sobrenome  | endereço      | cidade          | cep      | telefone       | email            | mensagem                                |
+      | nome    | sobrenome  | endereço      | cidade          | cep      | telefone       | email            | mensagem                                       |
       | Rodrigo | Lins Lopes | Rua Macaxeira | Duque de Caxias | 25010101 | (21) 9999-4799 | Rodrigo@ebac.com | "Compra realizada com sucesso"                 |
       |         | Lins Lopes | Rua Macaxeira | Duque de Caxias | 25010101 | (21) 9999-4799 | Rodrigo@ebac.com | "Favor preencher campo Nome"                   |
       | Rodrigo |            | Rua Macaxeira | Duque de Caxias | 25010101 | (21) 9999-4799 | Rodrigo@ebac.com | "Favor preencher campo Sobrenome"              |
