@@ -14,7 +14,7 @@ Para visualizar meus pedidos
     Então deve exibir a <mensagem>
 
     Exemplos:
-      | usuario            | senha     | mensagem                               |
-      | "Rodrigo@ebac.com" | "ebac123" | "Direcionando para a tela de Checkout" |
-      | "Rodrigo@ebac.com" | "123ebaa" | "Usuário ou senha inválidos"           |
-      | "Roorigo@ebac.com" | "ebac123" | "Usuário ou senha inválidos"           |
+      | usuario          | senha   | mensagem                               |
+      | Rodrigo@ebac.com | ebac123 | "Direcionando para a tela de Checkout" |
+      | Rodrigo@ebac.com | 123ebaa | "Usuário ou senha inválidos"           |
+      | Rodigo@e.com     | ebac123 | "Usuário ou senha inválidos"           |
