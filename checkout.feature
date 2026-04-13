@@ -1,6 +1,6 @@
 # language: pt
 @checkout @cadastro
-Funcionalidade: Check-out - Cadastro do cliente
+Funcionalidade: Checkout - Cadastro do cliente
 Como cliente da EBAC-SHOP
 Quero concluir meu cadastro   
 Para finalizar minha compra
@@ -9,12 +9,12 @@ Para finalizar minha compra
 
   Cenário: Cadastro com sucesso
     Quando eu preencher todos os campos obrigatórios marcados com *
-    E clicar em "concluir cadastro"
-    Então o sistema deve permitir a conclusão da compra
+    E concluir o cadastro
+    Então o sistema deve permitir a conclusão da minha compra
 
   Esquema do Cenário: Validação de campos obrigatórios
     Quando eu preencho o cadastro com Nome <nome>, Sobrenome <sobrenome>, Endereço <endereço>, Cidade <cidade>, Cep <cep>, Telefone <telefone>, E-mail <email>
-    E concluir o cadastro
+    E concluo o cadastro
     Então deve ser exibida a mensagem de alerta <mensagem>
 
     Exemplos:
